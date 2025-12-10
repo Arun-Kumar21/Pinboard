@@ -1,8 +1,7 @@
-
 export default function HomePage () {
     return (
-        <div>
-            This is home page 
-        </div>
+        <div className="my-12">
+
+        </div> 
     )
 }
